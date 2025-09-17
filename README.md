@@ -69,6 +69,9 @@ After the Adapter has connected to the Daikin Device a structure of objects are 
 * VIS widget
 
 ## Changelog
+### __WORK IN PROGRESS__
+* (Apollon77) Change unnecessary log entries from info to debug level to reduce log spam
+
 ### 1.5.1 (2025-05-25)
 * (@Matze2) Handles potential error case when using demand control data
 
